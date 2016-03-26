@@ -1,0 +1,36 @@
+/* Common */
+li {
+    list-style-type: none;
+}
+
+/* header */
+header {
+	background-color: lightskyblue;
+}
+
+header > h1 {
+	margin-bottom: 0px;
+}
+
+header > h1, header > div, #main > h3, #main > ul, footer {
+	padding : 10px;
+}
+
+/* section Main */
+#main {
+	background-color: darksalmon;
+}
+
+#main > h3 {
+	padding-bottom : 0px;
+	margin-bottom: 0px;
+}
+
+#main > ul {
+	margin-top : 0px;
+}
+
+/* footer */
+footer {
+	background-color: silver;
+}
