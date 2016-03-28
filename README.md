@@ -21,9 +21,9 @@ gulp based simple boilerplate.
 <br />
 
 ### Used Tools
-1.  jshint
+1. jshint
 
-2.  uglify, minify-css
+2. uglify, minify-css
 
 3. sourcemaps
 
